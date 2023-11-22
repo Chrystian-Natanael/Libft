@@ -1,3 +1,10 @@
+<style>
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+</style>
+
 # Let's talk 💬
 
 [<img src="https://raw.githubusercontent.com/Chrystian-Natanael/Aleatorios/master/Mycovers/CoverLIBFT.png" alt="libft_banner" width="1000">](https://github.com/Chrystian-Natanael/Aleatorios/blob/master/Mycovers/CoverLIBFT.png)
@@ -18,6 +25,16 @@ Throughout the project, we dealt with several challenges, such as understanding 
 Here I'm going to list the functions of libft, explaining a bit about them and what to worry about when starting your project.
 <br>
 Clicking on the function will take you to my libft in the code of the respective function.
+
+<br>
+<h3> 🦮 Summary: 🦮 <br>
+<br>
+<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-1">🔗 Mandatory part 1 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-2">🔗 Mandatory part 2 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft#bonus-part">🔗 Bonus part </a>
+<br>
+</h3>
+<br>
 
 ### Mandatory part 1:
 
@@ -151,3 +168,5 @@ Outputs the string s to the file descriptor fd, followed by a newline.
 ## [📄 Putnbr_fd](https://github.com/Chrystian-Natanael/Libft/blob/main/source/ft_putnbr_fd.c)
 
 Outputs the integer n to the file descriptor fd.
+
+### ⭐ Bonus part:
