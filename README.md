@@ -23,9 +23,9 @@ Clicking on the function will take you to my libft in the code of the respective
 <br>
 <h3> 🦮 Summary: 🦮 <br>
 <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-1">🔗 Mandatory part 1 </a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-2">🔗 Mandatory part 2 </a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#-bonus-part">🔗 Bonus part </a>
+<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-1" style="color: inherit; text-decoration: none;">🔗 Mandatory part 1 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-2" style="color: inherit; text-decoration: none;">🔗 Mandatory part 2 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft#-bonus-part" style="color: inherit; text-decoration: none;">🔗 Bonus part </a>
 <br>
 </h3>
 <br>
@@ -164,11 +164,3 @@ Outputs the string s to the file descriptor fd, followed by a newline.
 Outputs the integer n to the file descriptor fd.
 
 ### ⭐ Bonus part:
-
-
-<style>
-    a {
-        color: inherit;
-        text-decoration: none;
-    }
-</style>
