@@ -33,9 +33,9 @@ Clicando na função, você será direcionado para minha libft no código da res
 <br>
 <h3> 🦮 Sumário: 🦮 <br>
 <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-1" style="color: inherit; text-decoration: none;">🔗 Mandatório parte 1 </a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#mandatory-part-2" style="color: inherit; text-decoration: none;">🔗 Mandatório parte 2 </a> <br> <br>
-<a href="https://github.com/Chrystian-Natanael/Libft#-bonus-part" style="color: inherit; text-decoration: none;">🔗 Parte bônus </a>
+<a href="https://github.com/Chrystian-Natanael/Libft/blob/main/README_BR.md#mandat%C3%B3rio-parte-1" style="color: inherit; text-decoration: none;">🔗 Mandatório parte 1 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft/blob/main/README_BR.md#mandat%C3%B3rio-parte-2" style="color: inherit; text-decoration: none;">🔗 Mandatório parte 2 </a> <br> <br>
+<a href="https://github.com/Chrystian-Natanael/Libft/blob/main/README_BR.md#-parte-b%C3%B4nus" style="color: inherit; text-decoration: none;">🔗 Parte bônus </a>
 <br>
 </h3>
 <br>
