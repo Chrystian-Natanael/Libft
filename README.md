@@ -5,7 +5,7 @@
 ### `Select a language:`
 
 <p align="center">
-  <a href="https://github.com/Chrystian-Natanael/Get_next_line/blob/main/README_BR.md">
+  <a href="https://github.com/Chrystian-Natanael/Libft/blob/main/README_BR.md">
   <img src="https://github.com/Chrystian-Natanael/Aleatorios/raw/master/Flags/Round_Brazil_Flag.png" alt="libft" width="50">
   </a>
   &nbsp &nbsp &nbsp &nbsp
